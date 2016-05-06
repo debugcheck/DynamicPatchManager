@@ -1,5 +1,5 @@
 # DynamicPatchManager
-开源自己封装的JSPatch库,实现自动下载自动执行补丁等
+开源自己封装的JSPatch库,实现自动下载自动执行补丁等(包含执行脚本遇到crash情况处理)
 
 ##返回当前脚本
 - (NSString *)decryptPatchScript;
